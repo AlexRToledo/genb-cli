@@ -1,10 +1,10 @@
 {
-  "name": "jmjc-generator-cli",
+  "name": "generator-base-cli",
   "version": "1.0.0",
-  "description": "JMJC Software - Generator ClI Tools for projects.",
+  "description": "Generator ClI Tools for projects.",
   "main": "index.js",
   "bin": {
-    "jmjc": "index.js"
+    "genb": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "fs-extra": "^3.0.0"
   },
   "author": "Alejandro Rodriguez Toledo artoledo91@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1"
   }
