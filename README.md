@@ -1,8 +1,8 @@
-# JMJC ClI
+# Genb Cli
 * * *
 
 ## Important *
-This CLI works with templates, the templates are created by us. Those templates are stock in the project directory templates.
+This CLI works with templates, the templates are created by I. Those templates are stock in the project directory templates.
 So if you want, you can modify all the entire project for your use. Enjoy it.
 
 ## How install it
@@ -18,28 +18,28 @@ This create a system link for Windows or Linux, is not significative the executi
 ### Steps:
     1 - Go to the project folder
     2 - Into the console write:
-        jmjc {language} {type} {name}
+        genb {language} {type} {name}
 Where {language} is php or node for now, {type} is app, controller or model and name, well that what you wants.
 ** Php is under development.
 
 ## Commands and Descriptions
 ### PHP:
-     1 - jmjc php app base
+     1 - genb php app base
 This create a php app with name base
-     2 - jmjc php controller User
+     2 - genb php controller User
 this create a php file with name UserController
-     3 - jmjc php model User
+     3 - genb php model User
 This create a php file with name UserModel
-     4 - jmjc php repository User
+     4 - genb php repository User
 This create a php file with name UserRepository
 ### Node
-     1 - jmjc node app base
+     1 - genb node app base
 This create a node app with name base
-     2 - jmjc node controller User
+     2 - genb node controller User
 this create a node js file with name UserController
-     3 - jmjc node model User
+     3 - genb node model User
 This create a node js file with name UserModel
-     4 - jmjc node repository User
+     4 - genb node repository User
 This create a node js file with name UserRepository
 
 ## Projects Struture
@@ -73,4 +73,4 @@ This create a node js file with name UserRepository
 Open Source License, MIT
 
 ## Create bY
-Development Team
+Alejandro Rodriguez Toledo (artoledo91@gmail.com)
