@@ -1,4 +1,4 @@
-# Genb Cli
+# Generetor Base Client - genb cli
 * * *
 
 ## Important *
