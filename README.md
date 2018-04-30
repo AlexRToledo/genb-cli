@@ -25,22 +25,28 @@ Where {language} is php or node for now, {type} is app, controller or model and 
 ## Commands and Descriptions
 ### PHP:
      1 - genb php app base
-This create a php app with name base
+     This create a php app with name base
+
      2 - genb php controller User
-this create a php file with name UserController
+     this create a php file with name UserController
+
      3 - genb php model User
-This create a php file with name UserModel
+     This create a php file with name UserModel
+
      4 - genb php repository User
-This create a php file with name UserRepository
+     This create a php file with name UserRepository
 ### Node
      1 - genb node app base
-This create a node app with name base
+     This create a node app with name base
+
      2 - genb node controller User
-this create a node js file with name UserController
+     This create a node js file with name UserController
+
      3 - genb node model User
-This create a node js file with name UserModel
+     This create a node js file with name UserModel
+
      4 - genb node repository User
-This create a node js file with name UserRepository
+     This create a node js file with name UserRepository
 
 ## Projects Struture
     core
